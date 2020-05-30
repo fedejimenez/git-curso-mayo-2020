@@ -1,0 +1,5 @@
+Prueba de push y pull request
+
+algunos cambios para probar stash
+
+un cambio para prueba de REVERT despues del push
